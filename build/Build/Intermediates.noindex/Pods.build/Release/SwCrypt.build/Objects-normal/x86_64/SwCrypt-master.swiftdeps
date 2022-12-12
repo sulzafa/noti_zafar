@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "7c75ec29d659b921d87b031bc64e35a7edd1fe601919e013da4977997ff05c5a"
+build_start_time: [1670834633, 160976886]
+build_end_time: [1670834660, 830411911]
+inputs:
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Pods/SwCrypt/SwCrypt/SwCrypt.swift": [1670592289, 414815902]

@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "299907b866be7e19f5b8072f293d0785de542df40af2b424c4ae452d920a6186"
+build_start_time: [1670834633, 196940898]
+build_end_time: [1670834633, 300260066]
+inputs:
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Pods/Starscream/Sources/Starscream/Compression.swift": !dirty [1670599627, 650584220]
+  ? "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Pods/Starscream/Sources/Starscream/SSLClientCertificate.swift"
+  : !dirty [1670599627, 650413513]
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Pods/Starscream/Sources/Starscream/SSLSecurity.swift": !dirty [1670599627, 650756359]
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Pods/Starscream/Sources/Starscream/WebSocket.swift": !dirty [1670599627, 650979042]

@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "77807ac8d83cf7e6e8d8a82f256331be0fa8714cbe27bd99d984df2dec9f7df5"
+build_start_time: [1670834633, 192493915]
+build_end_time: [1670834633, 335690021]
+inputs:
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Pods/SwiftyBeaver/Sources/AES256CBC.swift": !dirty [1670599627, 657692193]
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Pods/SwiftyBeaver/Sources/Base64.swift": !dirty [1670599627, 656240463]
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Pods/SwiftyBeaver/Sources/BaseDestination.swift": !dirty [1670599627, 657305240]
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Pods/SwiftyBeaver/Sources/ConsoleDestination.swift": !dirty [1670599627, 658004522]
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Pods/SwiftyBeaver/Sources/Extensions.swift": !dirty [1670599627, 655168056]
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Pods/SwiftyBeaver/Sources/FileDestination.swift": !dirty [1670599627, 655439853]
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Pods/SwiftyBeaver/Sources/Filter.swift": !dirty [1670599627, 655973434]
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Pods/SwiftyBeaver/Sources/FilterValidator.swift": !dirty [1670599627, 654946327]
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Pods/SwiftyBeaver/Sources/GoogleCloudDestination.swift": !dirty [1670599627, 655711650]
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Pods/SwiftyBeaver/Sources/SBPlatformDestination.swift": !dirty [1670599627, 656555414]
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Pods/SwiftyBeaver/Sources/SwiftyBeaver.swift": !dirty [1670599627, 656963825]

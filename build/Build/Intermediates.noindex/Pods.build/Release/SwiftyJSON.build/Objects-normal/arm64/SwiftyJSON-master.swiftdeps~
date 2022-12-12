@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "69606a444e0b999353e8d1825cec64bfebccddbc7f066f1f1f9e4a02f1107b5f"
+build_start_time: [1670834633, 189846992]
+build_end_time: [1670834633, 282910823]
+inputs:
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Pods/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift": !dirty [1670599627, 663248300]
