@@ -17,7 +17,7 @@ class AuthViewController: NSViewController, WebFrameLoadDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let req = URLRequest(url:URL(string:"https://www.pushbullet.com/authorize?client_id=HjGI3xVOYnINASqo92eKGooO2VStwj21&redirect_uri=about:blank&response_type=token&scope=everything")!)
+        let req = URLRequest(url:URL(string:"https://www.pushbullet.com/authorize?client_id=<new_client_ID>&redirect_uri=about:blank&response_type=token&scope=everything")!)
         webView.frameLoadDelegate = self
         webView.mainFrame.load(req)
     }
