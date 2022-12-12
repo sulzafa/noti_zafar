@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "5667de2bac3c38847ed799f07f4d388d638bc3edad42da6b6b92ec3d0b825819"
+build_start_time: [1670834682, 42593955]
+build_end_time: [1670834682, 92869043]
+inputs:
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Noti/AppDelegate.swift": !dirty [1670606170, 481310844]
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Noti/AuthViewController.swift": !dirty [1670578182, 154123067]
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Noti/Crypt.swift": !dirty [1670606170, 445280075]
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Noti/Ephemerals.swift": !dirty [1670606170, 456437587]
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Noti/IntroViewController.swift": !dirty [1670577814, 80323457]
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Noti/PreferencesViewController.swift": !dirty [1670606170, 500294208]
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Noti/PushManager.swift": !dirty [1670606170, 492526054]
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Noti/RoundedImage.swift": !dirty [1670577814, 80867290]
+  "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/Noti/StatusMenuController.swift": !dirty [1670577814, 81002235]

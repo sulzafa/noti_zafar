@@ -52,7 +52,8 @@ open class PreferencesViewController: NSViewController {
         }
     }
     
-    open override func controlTextDidChange(_ obj: Notification) {
+    
+    override open func controlTextDidChange(_ obj: Notification) {
         //gets called every time password changes
         if(encryptionField.stringValue == FAKE_PASSWORD) {
             return;

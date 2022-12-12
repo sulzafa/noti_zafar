@@ -1,0 +1,11 @@
+framework module SwCrypt {
+  umbrella header "SwCrypt-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module SwCrypt.Swift {
+  header "SwCrypt-Swift.h"
+  requires objc
+}

@@ -1,0 +1,27 @@
+Target dependency graph (10 targets)
+Alamofire in Pods, no dependencies
+CryptoSwift in Pods, no dependencies
+EMCLoginItem in Pods, no dependencies
+Sparkle in Pods, no dependencies
+Starscream in Pods, no dependencies
+SwCrypt in Pods, no dependencies
+SwiftyBeaver in Pods, no dependencies
+SwiftyJSON in Pods, no dependencies
+Pods-Noti in Pods, depends on:
+Alamofire in Pods (explicit)
+CryptoSwift in Pods (explicit)
+EMCLoginItem in Pods (explicit)
+Sparkle in Pods (explicit)
+Starscream in Pods (explicit)
+SwCrypt in Pods (explicit)
+SwiftyBeaver in Pods (explicit)
+SwiftyJSON in Pods (explicit)
+Noti in Noti, depends on:
+Pods-Noti in Pods (implicit dependency via file 'Pods_Noti.framework' in build phase 'Link Binary')
+Alamofire in Pods (implicit dependency via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS')
+CryptoSwift in Pods (implicit dependency via options '-framework CryptoSwift' in build setting 'OTHER_LDFLAGS')
+EMCLoginItem in Pods (implicit dependency via options '-framework EMCLoginItem' in build setting 'OTHER_LDFLAGS')
+Starscream in Pods (implicit dependency via options '-framework Starscream' in build setting 'OTHER_LDFLAGS')
+SwCrypt in Pods (implicit dependency via options '-framework SwCrypt' in build setting 'OTHER_LDFLAGS')
+SwiftyBeaver in Pods (implicit dependency via options '-framework SwiftyBeaver' in build setting 'OTHER_LDFLAGS')
+SwiftyJSON in Pods (implicit dependency via options '-framework SwiftyJSON' in build setting 'OTHER_LDFLAGS')

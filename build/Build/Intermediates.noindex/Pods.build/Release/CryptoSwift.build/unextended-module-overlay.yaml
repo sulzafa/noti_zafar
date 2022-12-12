@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/build/Build/Products/Release/CryptoSwift/CryptoSwift.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/s-ul.zafar/Office/Projects/SCAOneBackend/Git_Repos/noti_zafar/build/Build/Intermediates.noindex/Pods.build/Release/CryptoSwift.build/unextended-module.modulemap",
+    }]
+  }]
+}
